@@ -1,0 +1,8 @@
+name: SoaromaVY
+version: 0.0.6
+description: Captcha Log In Plugin
+author: Korbsti
+main: me.Korbsti.Verify.Main
+api-version: 1.16
+commands:
+   captcha:
